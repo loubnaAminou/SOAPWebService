@@ -3,7 +3,7 @@ This project aims to deploy a service (a bank service in this example) on JaxWS 
 
 ### Web service : server 
 
-![https://github.com/loubnaAminou/SOAPWebService/blob/main/imgs/bankservice.png]
+! [https://github.com/loubnaAminou/SOAPWebService/blob/main/imgs/bankservice.png]
 
 In this case, we will publish the service as and endpoint thanks to Jakarta XML web service (JAXWS). And talking about web service, it is consumed not only locally, but no matter the IP address that's why we will use 0.0.0.0 instead of localhost.
 
