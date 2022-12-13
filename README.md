@@ -20,6 +20,16 @@ The web service is created, and now it's the time to test it using the SOAP UI. 
 At this point, we could assume that the bank web service worked 100%.
 
 ### Create a Java client : consumer
+Before starting, we have to generate Java code from the WSDL using a plugin provided by intelliJ. And then, all the operation are generated and the web service is ready to be consumed.  
 
+![Proxy](https://github.com/loubnaAminou/SOAPWebService/blob/main/imgs/proxy.png)
+
+Now, we create a Java class as a client. This client will use the service as if it is running locally and manipulate the methods easily.
+
+![Client](https://github.com/loubnaAminou/SOAPWebService/blob/main/imgs/client.png)
+
+By that, the execution is successfully finished without no error.
+
+![Output](https://github.com/loubnaAminou/SOAPWebService/blob/main/imgs/output.png)
 
 
