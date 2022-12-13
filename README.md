@@ -1,4 +1,4 @@
-# Web services SOAP, WSDL, UDDI with JAXWS
+# Web services SOAP, WSDL with JAXWS
 This project aims to deploy a service (a bank service in this example) on JaxWS server. As a web service, we have a bunch of operations applied on accounts in a bank.
 
 ### Web service : server 
@@ -28,7 +28,7 @@ Now, we create a Java class as a client. This client will use the service as if 
 
 ![Client](https://github.com/loubnaAminou/SOAPWebService/blob/main/imgs/client.png)
 
-By that, the execution is successfully finished without no error.
+By that, the execution is successfully finished with no error.
 
 ![Output](https://github.com/loubnaAminou/SOAPWebService/blob/main/imgs/output.png)
 
