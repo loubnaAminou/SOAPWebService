@@ -1,7 +1,7 @@
 # Web services SOAP, WSDL, UDDI with JAXWS
 This project aims to deploy a service (a bank service in this example) on JaxWS server. As a web service, we have a bunch of operations applied on accounts in a bank.
 
-###Web service : server part
+### Web service : server 
 
 ![https://github.com/loubnaAminou/SOAPWebService/blob/main/imgs/bankservice.png]
 
@@ -19,7 +19,7 @@ The web service is created, and now it's the time to test it using the SOAP UI. 
 
 At this point, we could assume that the bank web service worked 100%.
 
-###Create a Java client : consumer
+### Create a Java client : consumer
 
 
 
